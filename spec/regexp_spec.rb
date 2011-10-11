@@ -1,4 +1,3 @@
-require 'active_record'
 require 'sqlite3_ar_regexp'
 
 describe 'SQLite3ARRegexp::Extension' do

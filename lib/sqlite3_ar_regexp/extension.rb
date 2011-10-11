@@ -1,7 +1,5 @@
 # borrowed from http://titusd.co.uk/2010/01/31/regular-expressions-in-sqlite/
 
-require 'active_record/connection_adapters/sqlite3_adapter'
-
 module SQLite3ARRegexp
   module Extension
     extend ActiveSupport::Concern
