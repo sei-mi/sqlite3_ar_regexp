@@ -19,7 +19,7 @@ Gem::Specification.new do |s|
   s.require_paths = ["lib"]
 
   s.add_runtime_dependency 'sqlite3'
-  s.add_runtime_dependency 'activerecord', '>= 3.1'
+  s.add_runtime_dependency 'activerecord', '~> 3.0'
 
   s.add_development_dependency 'rspec'
 end
