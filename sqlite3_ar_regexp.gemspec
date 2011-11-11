@@ -7,7 +7,7 @@ Gem::Specification.new do |s|
   s.version     = SQLite3ARRegexp::VERSION
   s.authors     = ["Aaron Lasseigne"]
   s.email       = ["alasseigne@sei-mi.com"]
-  s.homepage    = ""
+  s.homepage    = "https://github.com/sei-mi/sqlite3_ar_regexp"
   s.summary     = %q{Adds REGEXP support for SQLite3 in ActiveRecord.}
   s.description = %q{Adds REGEXP support for SQLite3 in ActiveRecord.}
 
